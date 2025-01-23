@@ -8,13 +8,14 @@ export default {
     extend: {
       fontFamily: {
         manrope: ['Manrope', 'sans-serif'],
+        cursive: ['Allura', 'serif'],
+        montserrat: ['Montserrat', 'serif'],
       },
     },
   },
-  container:{
+  container: {
     center: true,
-    padding: "15px"
+    padding: "15px",
   },
-  
   plugins: [],
-}
+};
