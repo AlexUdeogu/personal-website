@@ -10,6 +10,7 @@ export default {
         manrope: ['Manrope', 'sans-serif'],
         cursive: ['Allura', 'serif'],
         montserrat: ['Montserrat', 'serif'],
+        serif: ['Crimson Text', 'serif'], // Add Crimson Text here
       },
     },
   },

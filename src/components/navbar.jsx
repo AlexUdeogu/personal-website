@@ -14,7 +14,7 @@ const Navbar = () => {
           smooth={true}
           offset={-100}
           duration={500}
-          className="mx-2 cursor-pointer hover:text-red-900 transition duration-200"
+          className="mx-2 cursor-pointer hover:text-red-700 transition duration-200"
         >
           Home
         </Link>
@@ -24,7 +24,7 @@ const Navbar = () => {
           smooth={true}
           offset={-100}
           duration={500}
-          className="mx-2 cursor-pointer hover:text-red-900 transition duration-200"
+          className="mx-2 cursor-pointer hover:text-red-700 transition duration-200"
         >
           About
         </Link>
@@ -34,7 +34,7 @@ const Navbar = () => {
           smooth={true}
           offset={-330}
           duration={500}
-          className="mx-2 cursor-pointer hover:text-red-900 transition duration-200"
+          className="mx-2 cursor-pointer hover:text-red-700 transition duration-200"
         >
           Tools
         </Link>
@@ -44,12 +44,12 @@ const Navbar = () => {
           smooth={true}
           offset={150}
           duration={500}
-          className="mx-2 cursor-pointer hover:text-red-900 transition duration-200"
+          className="mx-2 cursor-pointer hover:text-red-700 transition duration-200"
         >
           Contact
         </Link>
         <button
-          className="mx-2 cursor-pointer  hover:text-red-900 transition duration-200"
+          className="mx-2 cursor-pointer  hover:text-red-700 transition duration-200"
         >
           Resume
         </button>
